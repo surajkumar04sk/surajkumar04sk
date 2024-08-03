@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://play.google.com/store/developer?id=stechtricker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Play Store Developer Account" height="30" width="40" /></a>
+<a href="https://play.google.com/store/apps/dev?id=Stechtricker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Play Store Developer Account" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/suraj-kumar-9971241276-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC-v6d00XbQveUuZ3iK7rb4Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube Channel" height="30" width="40" /></a>
 </p>
